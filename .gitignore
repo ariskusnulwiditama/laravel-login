@@ -1,0 +1,34 @@
+lara-login/node_modules
+lara-login/public/hot
+lara-login/public/storage
+lara-login/storage/*.key
+lara-login/vendor
+lara-login/.env
+lara-login/.env.backup
+lara-login/.phpunit.result.cache
+lara-login/Homestead.json
+lara-login/Homestead.yaml
+lara-login/npm-debug.log
+lara-login/yarn-error.log
+
+
+react-auth/node_modules
+react-auth/.pnp
+react-auth/.pnp.js
+
+# testing
+react-auth/coverage
+
+# production
+react-auth/build
+
+# misc
+react-auth/.DS_Store
+react-auth/.env.local
+react-auth/.env.development.local
+react-auth/.env.test.local
+react-auth.env.production.local
+
+react-auth/npm-debug.log*
+react-auth/yarn-debug.log*
+react-auth/yarn-error.log*
